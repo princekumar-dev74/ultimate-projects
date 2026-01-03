@@ -1,16 +1,16 @@
-# WGS Project
+# Ultimate Project
 
-## 📌 Profile Finder
+## 📌 GTA-6
 ![GTA Logo](./logos/gta.png)
 
 Gta-6 
 
-## ☁️ Weather App
+## 📌 Unlimited photobook
 ![Unlimited photobook Logo](./logos/photobook.png)
 
 unlimited photobook
 
-## ☁️ Weather App
+## 📌 Unlimited photoqueue
 ![Unlimited photobook Logo](./logos/photo.png)
 
 unlimited photoqueue
