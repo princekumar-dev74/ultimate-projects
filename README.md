@@ -1,4 +1,5 @@
 # Ultimate Project
+note : “If someone is facing a problem downloading a project, they should first copy the project’s permalink and then visit this website and paste it there. That single project will be downloaded automatically. https://download-directory.github.io "
 
 ## 📌 GTA-6
 ![GTA Logo](./logos/gta.png)
